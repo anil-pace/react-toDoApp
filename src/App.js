@@ -31,7 +31,7 @@ class App extends React.Component {
         return (
             <div className="todo-list">
                 <h1> TO-DO LIST </h1>
-                <h3>Anjali, what's on your mind today?</h3>
+                <h3>Anil, what's all you gonna do today !!!</h3>
                 {todoItems}
             </div>
         )    

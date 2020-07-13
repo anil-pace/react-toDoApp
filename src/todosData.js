@@ -2,12 +2,12 @@ const todosData = [
     {
         id: 1,
         text: "Thank GOD for a beautiful day, ahead !!!",
-        completed: false
+        completed: true
     },
     {
         id: 2,
         text: "Build a ToDo App using React",
-        completed: true
+        completed: false
     },
     {
         id: 3,
